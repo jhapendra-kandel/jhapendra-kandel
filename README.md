@@ -144,24 +144,29 @@ const jhapendra = {
 
 🟢 deployed &nbsp;·&nbsp; 🟡 in progress &nbsp;·&nbsp; 🔵 planned
 
-| Project | Type | Status |
-|---|---|---|
-| ABC News Nepal | Web App | 🟢 [Live](https://abcnews.com.np) |
-| ABC CDN | Infra | 🟢 |
-| ABC Storage Pipeline | Infra Tool | 🟢 |
-| News Globe | Data Viz | 🟢 |
-| whisper-np | Messaging App | 🟡 |
-| Restaurant OS | Web App | 🟡 |
-| SentryMind | Blue Team Tool | 🟡 |
-| VulnForge | Red Team Tool | 🟡 |
-| WebVuln AI | Red Team Tool | 🟡 |
-| Intrusion Watch | Blue Team Tool | 🟡 |
-| Honeypot Lab | Blue Team Tool | 🟡 |
-| Phish-Sim | Red Team Tool | 🟡 |
-| EduSight AI | AI Tool | 🟡 |
-| ABC API | API Platform | 🟡 |
-| Labs Panel | Dashboard | 🟡 |
-| Google Maps AI Agentic Connect | AI Automation | 🔵 |
+<table width="100%" align="center">
+<thead>
+<tr><th align="left">Project</th><th align="left">Type</th><th align="left">Status</th></tr>
+</thead>
+<tbody>
+<tr><td>ABC News Nepal</td><td>Web App</td><td>🟢 <a href="https://abcnews.com.np">Live</a></td></tr>
+<tr><td>Jace CDN</td><td>Infra</td><td>🟢</td></tr>
+<tr><td>Jace Storage Pipeline</td><td>Infra Tool</td><td>🟢</td></tr>
+<tr><td>News Globe</td><td>Data Viz</td><td>🟢</td></tr>
+<tr><td>whisper-np</td><td>Messaging App</td><td>🟡</td></tr>
+<tr><td>Restaurant OS</td><td>Web App</td><td>🟡</td></tr>
+<tr><td>SentryMind</td><td>Blue Team Tool</td><td>🟡</td></tr>
+<tr><td>VulnForge</td><td>Red Team Tool</td><td>🟡</td></tr>
+<tr><td>WebVuln AI</td><td>Red Team Tool</td><td>🟡</td></tr>
+<tr><td>Intrusion Watch</td><td>Blue Team Tool</td><td>🟡</td></tr>
+<tr><td>Emberlane</td><td>Blue Team Tool</td><td>🟡</td></tr>
+<tr><td>Driftcast</td><td>Red Team Tool</td><td>🟡</td></tr>
+<tr><td>EduSight AI</td><td>AI Tool</td><td>🟡</td></tr>
+<tr><td>Jace API</td><td>API Platform</td><td>🟡</td></tr>
+<tr><td>Labs Panel</td><td>Dashboard</td><td>🟡</td></tr>
+<tr><td>Google Maps AI Agentic Connect</td><td>AI Automation</td><td>🔵</td></tr>
+</tbody>
+</table>
 
 ---
 
